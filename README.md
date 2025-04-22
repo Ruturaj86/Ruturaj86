@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruturaj Jadhav</h1>
-<h3 align="center">A passionate Cyber Security Analyst .</h3>
+
 
 <br>
 
@@ -7,7 +7,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"">
 </a>
 
-- 🌱 I’m currently learning **Burp Suit**
+- 🌱 I’m currently persuing **PG-DITISS**
 
 - 💬 Ask me about **Cyber Security**
 
@@ -39,7 +39,7 @@
 
 
 <br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruturaj86&show_icons=true&locale=en&theme=highcontrast" alt="Ruturaj86" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruturaj86&show_icons=true&locale=en&theme=highcontrast" alt="Ruturaj56" /></p>
 <br>
                                   
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruturaj86&&theme=highcontrast" alt="Ruturaj86" /></p>
